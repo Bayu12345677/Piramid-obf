@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/github/stars/Bayu12345677/Piramid-obf?logo=github&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Version&color=green&message=0.1&logo=Clockify&logoColor=white&style=for-the-badge"><br><br>
   <img src="https://img.shields.io/static/v1?label=Termux&color=green&message=+&logo=Iterm2&logoColor=white&style=flat">
+  <img src="https://img.shields.io/github/forks/Bayu12345677/Piramid-obf?logo=github&style=flat">
 </p>
 
 Obfuscate Pyramid serves to secure your script code
