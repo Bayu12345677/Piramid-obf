@@ -13,11 +13,11 @@ This tool has a feature that will make this obfuscate difficult to break
 <details open>
   <summary><strong><h2>How to Install</h2></strong></summary>
   
-  <li><code>langkah pertama pastikan anda sudah berada di directori home pada termux</code>
-  <li><code>langkah kedua silakan melakukan update dan upgrade pada termux anda</code>
-  <li><code>langkah ketiga silakan anda menginstall depencies berikut <code>ossp-uuid, git, curl, lzma, neovim, vim</code></code>
-  <li><code>langkah kempat jika sudah menginstall depencies tadi maka anda bisa mengclone repository ini</code>
-  <li><code>langkah kelima jika sudah maka anda bisa menjalankan perintah <code>bash bash.setup build; bash bash.setup run</code></code>
+  <li>langkah pertama pastikan anda sudah berada di directori home pada termux</li>
+  <li>langkah kedua silakan melakukan update dan upgrade pada termux anda</li>
+  <li>langkah ketiga silakan anda menginstall depencies berikut <code>ossp-uuid, git, curl, lzma, neovim, vim</code></li>
+  <li>langkah kempat jika sudah menginstall depencies tadi maka anda bisa mengclone repository ini</li>
+  <li>langkah kelima jika sudah maka anda bisa menjalankan perintah <code>bash bash.setup build; bash bash.setup run</code></li>
   <li><code>Token ambil <a href="">disini</a></code></li>
   
 > Example code
@@ -31,11 +31,9 @@ cd Piramid-obf
 bash bash.setup build
 bash bash.setup run
 ```
-> build = menginstall depencies dan mengcompile main.c
-  
-> run = jalankan setelah perintah build
-  
-> delete = menghapus script yg di bangun
+> build = menginstall depencies dan mengcompile main.c<br>
+> run = jalankan setelah perintah build<br>
+> delete = menghapus script yg di bangun<br>
   
 
 </details>
