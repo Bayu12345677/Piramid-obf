@@ -5,7 +5,7 @@ function depencies()
 {
 	array=(
 		"ossp-uuid" "neovim" "vim" "coreutils" "lzma" "ncurses-utils" "tree" "cmake"
-		"clang" "make"
+		"clang" "make" "cmake"
 	); apt-get update -y; apt-get upgrade -y
 
 	for install_depencies in "${array[@]}"; do
