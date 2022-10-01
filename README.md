@@ -26,8 +26,9 @@ This tool has a feature that will make this obfuscate difficult to break
 ```bash
 apt-get update
 apt-get upgrade
-apt-get install curl jq git ossp-uuid python ncurses-utils lzma
+apt-get install curl jq git ossp-uuid python ncurses-utils lzma nodejs
 pip install rich
+npm install -g bash-obfuscate
 pip install rich-cli
 git clone https://github.com/Bayu12345677/Piramid-obf
 cd Piramid-obf
